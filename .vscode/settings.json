@@ -1,0 +1,6 @@
+{
+    "conventionalCommits.scopes": [
+        "StatusCard"
+    ],
+    "liveServer.settings.port": 5501
+}
